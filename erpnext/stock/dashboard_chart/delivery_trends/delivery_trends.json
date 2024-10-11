@@ -17,7 +17,7 @@
  "name": "Delivery Trends",
  "number_of_groups": 0,
  "owner": "Administrator",
- "time_interval": "Monthly",
+ "time_interval": "weekly",
  "timeseries": 1,
  "timespan": "Last Year",
  "type": "Bar",
